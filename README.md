@@ -1,60 +1,78 @@
-**Profile** 
+# 👩‍💻 Archana Borelli
 
-Detail-oriented IT professional with a Master’s in Computer Science and 4 years of experience as a Backup Administrator, now transitioning into Data Engineering. Equipped with strong skills in Python, Java, SQL, Power BI, and statistical analysis, aiming to build efficient data pipelines and drive data-informed decisions in a fast-paced, growth-focused environment.
+Welcome to my professional portfolio! I'm a passionate and motivated Software Engineer with a background in Java, JavaScript, full-stack development, and data analysis. I enjoy building scalable applications, exploring data-driven solutions, and applying machine learning to solve real-world challenges.
 
-**Education**
-_Master's in Computer Science_
-Governors State University                                                           08/2022 – 05/2024| Chicago,United States
+---
 
-_Bachelor's in Computer Science_
-St.Ann's College For Women                                                                  06/2015 – 04/2018|Hyderabad,India
+## 💡 Highlight Project
 
-•Coursework included Mathematics, Statistics, and Computer Science.
-• Gained hands-on experience with R programming and Excel tools during Statistics courses.
+### 🔍 Top 10 IT Jobs & 2-Year Forecast (Power BI)
+- Collected and analyzed U.S. employment data to identify top 10 in-demand IT roles.
+- Designed Power BI dashboards to visualize job trends by location and job type.
+- Applied forecasting techniques to **predict demand for IT jobs over the next 2 years**.
+- Technologies used: **Power BI**, **Statistical Modeling**, **Excel**
 
-**Skills**
-Java, JavaScript, HTML, CSS, Node.js, SQL, Microsoft 365 office, Linux, R-programming, Statistics.
+---
 
-**Professional Experience**
-_Zen&art _
-Service Delivery Engineer                                                                                  02/2022 – 07/2022 Bangalore,India
+## 💼 Work Experience
 
-Served as the first point of contact for IT-related requests via phone and email, troubleshooting low-to-moderate technical issues within defined service levels.
+### 💻 Software & Service Delivery Engineer  
+**Zen&art, Bangalore, India**  
+*Feb 2022 – Jul 2022*  
+- Delivered technical support for IT service requests, collaborating across teams to resolve incidents.
+- Monitored systems and contributed to documentation and process improvement projects.
 
-Communicated effectively within functional teams to provide problem resolution updates and collaborated with global teams to drive requirements to closure.
+### 🛠 Technical Support Engineer & QA Analyst  
+**Wipro Limited, Hyderabad, India**  
+*May 2018 – Dec 2021*  
+- Supported Dell EMC Data Domain systems: diagnosed hardware issues, performed upgrades, and ensured data integrity.
+- Acted as QA Analyst for Facebook’s Triage process: performed audits, shared insights, and helped enhance process compliance.
 
-Leveraged internal resources, monitoring tools, and teammate expertise to investigate technology issues, adhering to established standards and procedures.
+---
 
-Managed single-threaded tasks, handled multiple incidents or projects based on complexity, and escalated complex issues to senior team members.
+## 📚 Education
 
-Monitored system outputs and applied insights to address outages and contribute to process improvement projects.
+**Master’s in Computer Science**  
+*Governors State University, Chicago, IL*  
+*Aug 2022 – May 2024*
 
-Reviewed and analyzed company-specific and industry knowledge, contributing to documentation and knowledge bases to enhance operational efficiency.
+**Bachelor’s in Computer Science**  
+*St. Ann's College For Women, Hyderabad, India*  
+*Jun 2015 – Apr 2018*
 
-_Wipro Limited_                                                                                     05/2018 – 12/2021 |Hyderabad, India
+---
 
-Part of the company for 3.7 years working in different roles and different projects in
-providing the services to the clients.
-1. Technical Support Engineer
-Provided technical support for Dell EMC Data Domain devices. Assisted customers from around the globe through Email/Chat/Phone.
+## 🛠 Skills
 
-Diagnosed and replaced faulty components, ensuring minimal downtime.
+- **Languages**: Java, JavaScript, SQL, HTML, CSS, R
+- **Frameworks & Tools**: Node.js, Linux, Microsoft 365, Power BI
+- **Concepts**: Full Stack Development, Statistics, Time Series Forecasting, API Integration
 
-Resolved technical issues remotely, ensuring system efficiency.
+---
 
-Configured replication systems to meet business requirements.
+## 📈 Projects
 
-Upgraded DD OS to enhance performance and security.
+### 🎬 Film Finder
+- Built a dynamic movie discovery app using JavaScript and TMDb API.
+- Implemented async API calls and genre-based movie suggestions.
 
-Trained new recruits and supported team members for collaborative growth.
+### 💼 WorkAround Explorer
+- Created a salary explorer app to compare tech industry roles and company pay averages.
+- Used modular JavaScript and dynamic data filters.
 
-Consistently met and exceeded SLAs and performance targets.
-2.Quality Assurance Analyst
-Worked as a QA Analyst (Triage-L1) in the Facebook account, ensuring adherence to quality standards.
+### 🌾 Soybean & Corn Price Prediction
+- Built models using ARIMA, SVR, NNA, and LSTM to predict crop prices.
+- Delivered insights to benefit farmers, traders, and policymakers.
 
-Conducted weekly audits of tasks performed by Triage Specialists to maintain process accuracy and compliance.
+### 🛒 eCommerce Database System
+- Designed a relational DB for managing products, transactions, and customer data.
+- Integrated payment gateways and optimized backend operations.
 
-Prepared detailed audit reports and provided constructive feedback to Triage Specialists for continuous improvement.
+---
 
-Shared audit findings and insights with team seniors to enhance overall team performance and quality standards.
+## 📫 Contact Me
 
+📍 Chicago, IL  
+📧 [archanaborelli09@gmail.com](mailto:archanaborelli09@gmail.com)  
+📱 +1 312-868-5207  
+🔗 [LinkedIn](https://linkedin.com/in/archana-borelli-67a993248)
